@@ -1,16 +1,14 @@
-### Hi there 👋
-
+### Hi! I'm whfox :) 
 <!--
-**whfox/whfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=whfox&show_icons=true&theme=vue&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+I am an amateur who write just for fun.
+
+❤️ can be able to write "hello word" in c, c++, python and java.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whfox&theme=vue&layout=compact&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+My Repositories:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whfox&repo=whfox.github.io&theme=vue)](https://whfox.github.io)
